@@ -1,6 +1,6 @@
 {
   "name": "@rnacanvas/circles",
-  "version": "1.4.0",
+  "version": "2.0.0",
   "description": "Operations on circles",
   "main": "./dist/index.js",
   "scripts": {
